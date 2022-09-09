@@ -1,0 +1,11 @@
+// Counters must be delimited with ',' including the last one.
+// C/C++ comments are allowed.
+// Both native and standard PAPI events are supported.
+"PAPI_TOT_INS",
+"PAPI_TOT_CYC",
+"PAPI_STL_CCY",
+"PAPI_L1_TCM", 
+"PAPI_L2_TCM",
+"PAPI_L3_TCM",
+"PAPI_BR_INS",
+"PAPI_BR_MSP",
